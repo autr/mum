@@ -1,0 +1,72 @@
+
+
+				.amerigoregular, .font1{font-family: 'amerigoregular' !important;}
+
+						@font-face {
+					font-family: 'fabrikregular';
+					src: url('fonts/f2.woff2') format('woff2'),
+						url('fonts/f2.woff') format('woff');
+				}
+
+				.fabrikregular, .font2 {font-family: 'fabrikregular' !important;}
+
+						@font-face {
+					font-family: 'self-modern';
+					src: url('fonts/f3.woff2') format('woff2'),
+						url('fonts/f3.woff') format('woff');
+				}
+
+				.self-modern, .font3{font-family: 'self-modern' !important;}
+
+						@font-face {
+					font-family: 'logonahum';
+					src: url('fonts/f4.woff2') format('woff2'),
+						url('fonts/f4.woff') format('woff');
+				}
+
+				.logonahum, .font4{font-family: 'logonahum' !important;}
+
+						@font-face {
+					font-family: 'chemrenahum';
+					src: url('fonts/f5.woff2') format('woff2'),
+						url('fonts/f5.woff') format('woff');
+				}
+
+				.chemrenahum, .font5{font-family: 'chemrenahum' !important;}
+
+						@font-face {
+					font-family: 'jhatimesnow';
+					src: url('fonts/f6.woff2') format('woff2'),
+						url('fonts/f6.woff') format('woff');
+				}
+
+				.jhatimesnow, .font6{font-family: 'jhatimesnow' !important;}
+
+						@font-face {
+					font-family: 'signifierlight';
+					src: url('fonts/f7.woff2') format('woff2'),
+						url('fonts/f7.woff') format('woff');
+				}
+
+				.signifierlight, .font7{font-family: 'signifierlight' !important;}
+
+						@font-face {
+					font-family: 'signifierextralight';
+					src: url('fonts/f8.woff2') format('woff2'),
+						url('fonts/f8.woff') format('woff');
+				}
+
+				.signifierextralight, .font8{font-family: 'signifierextralight' !important;}
+
+						@font-face {
+					font-family: 'freightdisp';
+					src: url('fonts/f9.woff2') format('woff2'),
+						url('fonts/f9.woff') format('woff');
+				}
+
+				.freightdisp, .font9{font-family: 'freightdisp' !important;}
+
+						#menu p{
+					font-family: 'self-modern' !important;
+				}
+		

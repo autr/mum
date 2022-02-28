@@ -1,0 +1,21 @@
+{
+  "name": "mum",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev & pnpm run sass",
+    "build": "svelte-kit build && mv build docs",
+    "package": "svelte-kit package",
+    "sass": "node-sass -w src/global.sass static/global.css",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-auto": "next",
+    "@sveltejs/kit": "next",
+    "svelte": "^3.44.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "@sveltejs/adapter-static": "^1.0.0-next.28",
+    "node-sass": "^7.0.1"
+  }
+}
