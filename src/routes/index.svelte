@@ -19,10 +19,6 @@
 			<h2 class="f4">{subtitle}</h2>
 		</header>
 
-		<!-- <aside class="sink">
-			<img src="img/sheep.jpg" class="w100pc" />
-		</aside> -->
-
 		<article class="font3 f5">
 			<blockquote>{statement}</blockquote>
 		</article>
@@ -31,5 +27,5 @@
 			<a href="mailto:{email}">{email}</a>
 		</footer>
 	</div>
-	
+
 </main>
